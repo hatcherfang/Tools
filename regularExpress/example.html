@@ -1,0 +1,97 @@
+<style type="text/css">
+    #contentBg {
+     background-color: #F9FBFC; /*fallback*/
+     background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ffffff), to(#E7E7E7)); /* Safari 4-5, Chrome 1-9 */
+     background: -webkit-linear-gradient(top, #ffffff, #E7E7E7); /* Safari 5.1, Chrome 10+ */
+     background: -moz-linear-gradient(top, #ffffff, #E7E7E7); /* Firefox 3.6+ */
+     background: -ms-linear-gradient(top, #ffffff, #E7E7E7); /* IE 10 */
+     background: -o-linear-gradient(top, #ffffff, #E7E7E7); /* Opera 11.10+ */
+     filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr='#ffffffff', endColorstr='#ffe7e7e7');/*For IE7-8-9*/
+     height: 1%;/*For IE7*/
+    }
+    /* Inset, by Dan Eden */
+    .company {
+	 border-bottom: 2px solid #CC3025;
+	 padding: 10px;
+	}
+    .company img {
+     height: 35px;
+    }
+    p {
+     text-align: left;
+     line-height: 20px;
+    }
+    .notif {
+     padding: 4px 20px 40px 20px;
+    }
+    .title {
+     text-align: left;
+     font-size: 20px;
+     padding: 10px 0;
+     font-weight: bold;
+     text-transform: uppercase;
+     color: #CC3025
+    }
+    .septop {
+     height: 3px;
+     background-color: #bbb;
+    }
+    .sepbot {
+     height: 2px;
+     background-color: #bbb;
+    }
+    .actionemphasis {
+     text-transform: uppercase;
+     font-weight: bold;
+     color: #CC3025
+    }
+    .footer {
+     font-size: 10px;
+     color: #666;
+     text-align: right;
+     line-height: 20px;
+     padding: 8px 0px;
+    }
+    .container {
+      width: 100%;
+      max-width: 600px;
+      margin: 20px auto 0;
+    }
+    .content {
+     position: relative;
+     min-height: 100px;
+     box-shadow: 4px 2px 11px -1px #C2C2C2;
+     border: 1px solid #BBB;
+     margin: 0 auto;
+    }
+   .details div{
+      padding-bottom: 8px;
+	  font-size:13px;
+    }
+ </style>
+ <body>
+  <div class="container">
+   <div class="content">
+   <div class="company">
+		<span style="font-size: 20px;" i18n="company.company">UESTC</span>
+	</div>
+    <div id="contentBg">
+     <div class="notif">
+      <div class="title" i18n="acl_msg.block">URL Blocked
+      </div>
+      <div class="septop">
+      </div>
+      <p >This URL was <span class="actionemphasis">blocked</span> because of the company's ACL policy restricting access to inappropriate content.</p>
+      <div class="details">
+       <div><strong>Event Details:</strong></div>
+       <div>Reason: %REASON%</div>
+      </div>
+      <div class="sepbot"></div>
+     </div><!--notif-->
+    </div><!--contentBg-->
+   </div><!--content-->
+   <div class="footer"></div>
+  </div><!--container-->
+  #L10TAG
+ </body>
+</html>
