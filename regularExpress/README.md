@@ -28,10 +28,10 @@
 >>>>>>├── test2.txt  
 >>>>>>└── test3.txt  
 >>>>all the test\*.txt file content is as below:  
->>>>`AAAddsfagagaAAAfaga  
+>>>>AAAddsfagagaAAAfaga  
 >>>>AAAddsfagagaAAAfaga  
 >>>>AAAddsfagagaAAAfag  
->>>>AAAddsfagagaAAAfaga`  
+>>>>AAAddsfagagaAAAfaga  
 >>>>Then you can update variable such as: rA="AAA", rB="BBB" in file "regularReplace.py" to replace all the "AAA" with "BBB" in all of the files under the testDir. Then run the command `"python regularReplace.py ./testDir/"`. All the string "AAA" replaced by "BBB" and saved into file as test\*.txt.rep the tree testDir as below:  
 >>>>>>testDir  
 >>>>>>├── test1.txt  
@@ -41,8 +41,8 @@
 >>>>>>└── test3.txt  
 >>>>>>└── test3.txt.rep  
 >>>>You can see the files test\*.txt.rep that all the string "AAA" was replaced by "BBB" the content as below:
->>>>`BBBddsfagagaBBBfaga  
 >>>>BBBddsfagagaBBBfaga  
 >>>>BBBddsfagagaBBBfaga  
->>>>BBBddsfagagaBBBfaga`  
+>>>>BBBddsfagagaBBBfaga  
+>>>>BBBddsfagagaBBBfaga  
 >>>>Then you can using batchRename.py to rename all the files "test\*.txt.rep" to "test\*.txt".  
