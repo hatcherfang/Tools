@@ -1,4 +1,4 @@
-1.FileName "convertClassToInlineStyle.py"  
+**1.FileName "convertClassToInlineStyle.py"**  
   1.1 Function instroduce:  
     Using regular expression to replace string.  
     details: replace all the 'class="xxx"' with the style content.  
