@@ -17,16 +17,16 @@ def getAllFilePath(fileDir, allFilePathList, fileSelf):
             allFilePathList.append(filePath)
 
 
-def batchReplace(filePathList, repFilePathList):
+def batchReplace(rA, rB, filePathList, repFilePathList):
+    "replace all the string rA with rB in all the files from filePathList and \
+    write all the replaced content into file with postfix .rep"
     if not filePathList or type(filePathList) != list:
         return
     for filePath in filePathList:
         with open(filePath, "r") as fp:
             content = fp.read()
-        link = re.compile('''window.parent.location.href="/loginPage.ddei"''')
-        #link = re.compile('''window.location.href="/loginPage.ddei"''')
-        #link = re.compile('''window.location.href="/loginPage.ddei"''')
-        output = re.sub(link, '''window.top.location.href="/index.html"''', content)
+        link = re.compile(rA)
+        output = re.sub(link, rB, content)
         if content !=output:
 	    repFilePathList.append(filePath+".rep")
             with open(filePath+".rep", "wb") as fp:
@@ -36,7 +36,9 @@ if __name__ == '__main__':
     allFilePathList = []
     repFilePathList = []
     getAllFilePath(sys.argv[1], allFilePathList, sys.argv[0])
-    batchReplace(allFilePathList, repFilePathList)
+    rA = "AAA"
+    rB = "BBB"
+    batchReplace(rA, rB, allFilePathList, repFilePathList)
     print len(allFilePathList)
     print repFilePathList, len(repFilePathList)
 
