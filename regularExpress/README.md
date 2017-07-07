@@ -40,7 +40,7 @@
 >>>>>>├── test2.txt.rep  
 >>>>>>└── test3.txt  
 >>>>>>└── test3.txt.rep  
->>>>You can see the files test\*.txt.rep that all the string "AAA" was replaced by "BBB" the content as below:
+>>>>You can see the files test\*.txt.rep that all the string "AAA" was replaced by "BBB" the content as below:  
 >>>>BBBddsfagagaBBBfaga  
 >>>>BBBddsfagagaBBBfaga  
 >>>>BBBddsfagagaBBBfaga  
