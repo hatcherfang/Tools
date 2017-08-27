@@ -23,6 +23,11 @@ class Operation(object):
 
 class addOperation(Operation):
     '''concrete class'''
+    def __init__(self):
+        self.op_map = {
+            '+': ['加法', ' + ']
+        }
+
     def get_result(self, a, b):
         if isinstance(a, (int, float)) and isinstance(b, (int, float)):
             return a+b
@@ -32,6 +37,11 @@ class addOperation(Operation):
 
 class subOperation(Operation):
     '''concrete class'''
+    def __init__(self):
+        self.op_map = {
+            '-': ['减法', ' - ']
+        }
+
     def get_result(self, a, b):
         if isinstance(a, (int, float)) and isinstance(b, (int, float)):
             return a-b
@@ -41,6 +51,11 @@ class subOperation(Operation):
 
 class mulOperation(Operation):
     '''concrete class'''
+    def __init__(self):
+        self.op_map = {
+            '*': ['乘法', ' x ']
+        }
+
     def get_result(self, a, b):
         if isinstance(a, (int, float)) and isinstance(b, (int, float)):
             return a*float(b)
@@ -50,6 +65,11 @@ class mulOperation(Operation):
 
 class divOperation(Operation):
     '''concrete class'''
+    def __init__(self):
+        self.op_map = {
+            '/': ['除法', ' ÷ ']
+        }
+
     def get_result(self, a, b):
         if b != 0 and isinstance(a, (int, float)) and isinstance(b, (int, float)
                                                                  ):
@@ -150,23 +170,17 @@ class factoryOperationsWrapper(object):
     def get_ab(self, op):
         while True:
             if self.floatBool:
-                if random.randint(0, 1):
-                    a = random.randint(0, self.scope)
-                    b = random.randint(0, self.scope)
-                else:
-                    a = round(random.uniform(0, self.scope), 2)
-                    b = round(random.uniform(0, self.scope), 2)
+                a = round(random.uniform(0, self.scope), 2)
+                b = round(random.uniform(0, self.scope), 2)
             else:
                 a = random.randint(0, self.scope)
                 b = random.randint(0, self.scope)
             if not self.subBool and a < b:
                 continue
-            if op == '/' and not self.divBool:
-                d = random.randint(0, self.scope)
-                b = random.randint(0, self.scope)
-                a = b*d
-            if op == '/' and b == 0:
-                continue
+            if op == '/':
+                a = a*b
+                if a > self.scope or b == 0:
+                    continue
             break
         return a, b
 
@@ -181,12 +195,12 @@ class factoryOperationsWrapper(object):
                 return True
             if c == 'ck':
                 self.arithmetic_result()
-                print '继续加油哦！'
+                print '继续加油哦！\n'
             if c == 'gh':
-                print '请输入新的运算范围：'
+                print '请输入新的运算范围(值大于0)：'
                 self.scope = raw_input()
-                while not self.scope.isdigit():
-                    print "请输入数字更换运算范围"
+                while not self.scope.isdigit() or int(self.scope) <= 0:
+                    print "请输入数字更换运算范围(值大于0)"
                     self.scope = raw_input()
                 self.scope = int(self.scope)
             if c == 'qhfd':
@@ -195,12 +209,9 @@ class factoryOperationsWrapper(object):
                 self.subBool = not self.subBool
             if c == 'qhcf':
                 self.divBool = not self.divBool
-            if c == 'tg':
-                break
-            while c == 'ts':
+            if c == 'ts':
                 print opObj.get_result(a, b)
-                c = raw_input()
-            if c not in ['ck', 'gh', 'qhfd', 'qhjf', 'qhcf', 'tg']:
+            if c not in ['ck', 'gh', 'qhfd', 'qhjf', 'qhcf', 'ts']:
                 print '很可惜，您答错了，请重新输入数字类型或输入tg跳过本题:'
                 if exercise in self.wrongExercise:
                     self.wrongExercise[exercise] = operator.add(
@@ -209,14 +220,15 @@ class factoryOperationsWrapper(object):
                     self.wrongExercise[exercise] = 1
                 self.wrongCount = self.wrongCount + 1
                 self.total = self.total + 1
+                if c == 'tg':
+                    break
             print '****************************************************'
             print '继续答题请输入数字'
             print '退出请输入：tc'
             print '查看成绩请输入：ck'
             print '更换运算范围请输入：gh'
-            print '切换浮点运算请输入: qhfd'
+            print '切换浮点运算(结果保留两位小数)请输入: qhfd'
             print '切换减法运算值为负数的运算请输入: qhjf'
-            print '切换除法运算值为浮点数(保留两位小数)的运算请输入: qhcf'
             print '****************************************************'
             print exercise
             c = raw_input()
@@ -238,7 +250,7 @@ class factoryOperationsWrapper(object):
             return False
         if self.total % 10 == 0:
             self.arithmetic_result()
-            print '继续加油！\n'
+            print '继续加油哦！\n'
 
     def create_operation(self, op):
         objFactory = factoryOperations()
@@ -246,33 +258,33 @@ class factoryOperationsWrapper(object):
         if not opObj:
             print "factory create failed!"
             return
-        op_map = {
-            '+': ['加法', ' + '],
-            '-': ['减法', ' - '],
-            '*': ['乘法', ' x '],
-            '/': ['除法', ' ÷ ']
-        }
         print '请先设定{0}运算范围哦！ \n例如10以内{0}请输入：10'.format(
-            op_map[op][0])
+            opObj.op_map[op][0])
         self.scope = raw_input()
         while not self.scope.isdigit():
             print "请输入数字作为运算范围哦！"
             self.scope = raw_input()
         self.scope = int(self.scope)
         print '******************************************************'
-        print '\n欢迎进入 {0} 以内{1}！'.format(self.scope, op_map[op][0])
+        print '\n欢迎进入 {0} 以内{1}！'.format(self.scope, opObj.op_map[op][0])
         print '退出该运算请输入: tc'
         print '查看当前成绩请输入: ck'
-        print '切换浮点运算请输入: qhfd'
+        print '切换浮点运算(保留两位小数)请输入: qhfd'
         print '切换减法运算值为负数的运算请输入: qhjf'
-        print '切换除法运算值为浮点数(保留两位小数)的运算请输入: qhcf'
         print '******************************************************'
         self.floatBool = False
         self.subBool = False
         self.divBool = False
         while 1:
             a, b = self.get_ab(op)
-            exercise = str(a) + op_map[op][1] + str(b) + ' = ?'
+            exercise = str(a) + opObj.op_map[op][1] + str(b) + ' = ?'
+            count = 0
+            while exercise in self.rightExercise:
+                a, b = self.get_ab(op)
+                exercise = str(a) + opObj.op_map[op][1] + str(b) + ' = ?'
+                count = count + 1
+                if count >= 100:
+                    break
             if self.do_operation(a, b, exercise, opObj):
                 break
 
