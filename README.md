@@ -5,3 +5,7 @@ regular express to batch processing string
 
 2. pytestStudy  
 to do Unit test  
+
+3. vimConfig
+vim config file easy to work
+
