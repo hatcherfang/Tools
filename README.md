@@ -8,4 +8,5 @@ to do Unit test
 
 3. vimConfig
 vim config file easy to work
+[vim中的杀手级插件: vundle](http://zuyunfei.com/2013/04/12/killer-plugin-of-vim-vundle/)
 
