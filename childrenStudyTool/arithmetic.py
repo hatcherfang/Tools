@@ -9,7 +9,11 @@ from abc import ABCMeta, abstractmethod
 '''
 I make the program to help children study arithmetic operations
 
+Usage:
+    python arithmetic.py
+
 Author: hatcher fang
+All rights reserved
 '''
 
 
