@@ -14,5 +14,5 @@ vim config file easy to work
 file lock to be used to exclusive lock between process  
 
 ## Finally  
-- Don't forget Star the project and I will often update it, welcome to contact me.  
-- email: hatcherfang@163.com    
+- Don't forget Star the project and I will often update it.  
+- Welcome to contact me.(email: hatcherfang@163.com)   
