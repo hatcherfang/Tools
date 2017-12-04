@@ -316,7 +316,7 @@ vim -p *.cpp
 (未完待续)  
 
 ## Reference  
-[简明 VIM 练级攻略](https://coolshell.cn/articles/5426.html)  
-[无插件VIM编程技巧](https://coolshell.cn/articles/11312.html)  
-[将VIM变得简单:如何在VIM中得到你最喜爱的IDE特性](https://coolshell.cn/articles/894.html)  
+- [简明 VIM 练级攻略](https://coolshell.cn/articles/5426.html)  
+- [无插件VIM编程技巧](https://coolshell.cn/articles/11312.html)  
+- [将VIM变得简单:如何在VIM中得到你最喜爱的IDE特性](https://coolshell.cn/articles/894.html)  
 
