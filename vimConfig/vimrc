@@ -95,6 +95,8 @@ Bundle 'EasyGrep'
 Bundle 'VOoM'
 Bundle 'VimIM'
 Plugin 'derekwyatt/vim-scala'
+Plugin 'fatih/vim-go'
+Plugin 'vim-scripts/taglist.vim'
 "..................................
 " non github repos
 " Bundle 'git://git.wincent.com/command-t.git'
@@ -103,3 +105,11 @@ filetype plugin indent on
 "
 "可配置phpbin的路径，不配置默认使用'php' 
 let g:PHP_SYNTAX_CHECK_BIN = '/usr/bin/php' 
+let g:go_version_warning = 0
+
+"vim 之自动缩进(smartindent) tab 空格数设置为4
+set smartindent  
+set tabstop=4  
+set shiftwidth=4  
+set expandtab  
+set softtabstop=4  
