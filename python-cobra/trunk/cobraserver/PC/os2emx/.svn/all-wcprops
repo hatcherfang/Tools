@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx/pyconfig.h
+END
+python25.def
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx/python25.def
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx/config.c
+END
+dlfcn.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx/dlfcn.c
+END
+README.os2emx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx/README.os2emx
+END
+dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx/dlfcn.h
+END
+getpathp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx/getpathp.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx/Makefile
+END
+dllentry.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx/dllentry.c
+END
+pythonpm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2emx/pythonpm.c
+END

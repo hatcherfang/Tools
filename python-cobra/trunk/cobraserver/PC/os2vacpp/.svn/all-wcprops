@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2vacpp
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2vacpp/config.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2vacpp/readme.txt
+END
+_tkinter.def
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2vacpp/_tkinter.def
+END
+getpathp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2vacpp/getpathp.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2vacpp/makefile
+END
+python.def
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2vacpp/python.def
+END
+makefile.omk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2vacpp/makefile.omk
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/PC/os2vacpp/pyconfig.h
+END

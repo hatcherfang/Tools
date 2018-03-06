@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/cobraserver/Objects
+END
+cellobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/cellobject.c
+END
+object.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Objects/object.c
+END
+methodobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Objects/methodobject.c
+END
+typeobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/typeobject.c
+END
+dictobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/dictobject.c
+END
+weakrefobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Objects/weakrefobject.c
+END
+unicodeobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Objects/unicodeobject.c
+END
+tupleobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Objects/tupleobject.c
+END
+listsort.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/listsort.txt
+END
+intobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Objects/intobject.c
+END
+boolobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/boolobject.c
+END
+rangeobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Objects/rangeobject.c
+END
+descrobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Objects/descrobject.c
+END
+unicodectype.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Objects/unicodectype.c
+END
+bufferobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Objects/bufferobject.c
+END
+genobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Objects/genobject.c
+END
+listobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/listobject.c
+END
+unicodetype_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/cobraserver/Objects/unicodetype_db.h
+END
+fileobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/fileobject.c
+END
+cobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Objects/cobject.c
+END
+moduleobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Objects/moduleobject.c
+END
+exceptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/exceptions.c
+END
+frameobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Objects/frameobject.c
+END
+funcobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/funcobject.c
+END
+setobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Objects/setobject.c
+END
+sliceobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Objects/sliceobject.c
+END
+longobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/longobject.c
+END
+obmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Objects/obmalloc.c
+END
+dictnotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Objects/dictnotes.txt
+END
+iterobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/iterobject.c
+END
+enumobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/enumobject.c
+END
+floatobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Objects/floatobject.c
+END
+classobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Objects/classobject.c
+END
+stringobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Objects/stringobject.c
+END
+structseq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Objects/structseq.c
+END
+complexobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Objects/complexobject.c
+END
+codeobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Objects/codeobject.c
+END
+abstract.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Objects/abstract.c
+END

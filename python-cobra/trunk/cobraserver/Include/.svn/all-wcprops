@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/cobraserver/Include
+END
+pyarena.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/pyarena.h
+END
+codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Include/codecs.h
+END
+genobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/genobject.h
+END
+abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Include/abstract.h
+END
+methodobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Include/methodobject.h
+END
+opcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Include/opcode.h
+END
+cobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/cobject.h
+END
+dictobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/dictobject.h
+END
+intrcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/intrcheck.h
+END
+structmember.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Include/structmember.h
+END
+pythread.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Include/pythread.h
+END
+symtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Include/symtable.h
+END
+setobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/setobject.h
+END
+sysmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/sysmodule.h
+END
+grammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/grammar.h
+END
+cobra.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Include/cobra.h
+END
+ast.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/cobraserver/Include/ast.h
+END
+pystrtod.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Include/pystrtod.h
+END
+pgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Include/pgen.h
+END
+pystate.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/pystate.h
+END
+floatobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Include/floatobject.h
+END
+complexobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Include/complexobject.h
+END
+bufferobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Include/bufferobject.h
+END
+listobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/listobject.h
+END
+py_curses.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/py_curses.h
+END
+unicodeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Include/unicodeobject.h
+END
+tupleobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Include/tupleobject.h
+END
+pymactoolbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Include/pymactoolbox.h
+END
+intobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/intobject.h
+END
+Python.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Include/Python.h
+END
+funcobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/funcobject.h
+END
+osdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Include/osdefs.h
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Include/node.h
+END
+pyerrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Include/pyerrors.h
+END
+marshal.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/marshal.h
+END
+descrobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Include/descrobject.h
+END
+patchlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/patchlevel.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Include/eval.h
+END
+compile.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/compile.h
+END
+pyexpat.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/pyexpat.h
+END
+bitset.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Include/bitset.h
+END
+ceval.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Include/ceval.h
+END
+datetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Include/datetime.h
+END
+metagrammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Include/metagrammar.h
+END
+stringobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Include/stringobject.h
+END
+timefuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/timefuncs.h
+END
+pydebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/pydebug.h
+END
+cellobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/cellobject.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Include/object.h
+END
+import.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Include/import.h
+END
+code.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Include/code.h
+END
+traceback.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/traceback.h
+END
+token.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Include/token.h
+END
+frameobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Include/frameobject.h
+END
+boolobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/boolobject.h
+END
+asdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Include/asdl.h
+END
+sliceobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Include/sliceobject.h
+END
+pymem.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Include/pymem.h
+END
+ucnhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/ucnhash.h
+END
+classobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Include/classobject.h
+END
+structseq.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/structseq.h
+END
+cStringIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/cStringIO.h
+END
+longintrepr.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Include/longintrepr.h
+END
+pythonrun.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Include/pythonrun.h
+END
+Python-ast.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/Python-ast.h
+END
+fileobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/fileobject.h
+END
+graminit.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Include/graminit.h
+END
+weakrefobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Include/weakrefobject.h
+END
+pygetopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Include/pygetopt.h
+END
+moduleobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Include/moduleobject.h
+END
+modsupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/modsupport.h
+END
+pyfpe.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Include/pyfpe.h
+END
+errcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/errcode.h
+END
+rangeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Include/rangeobject.h
+END
+pgenheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Include/pgenheaders.h
+END
+longobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/longobject.h
+END
+parsetok.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Include/parsetok.h
+END
+iterobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/iterobject.h
+END
+enumobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Include/enumobject.h
+END
+objimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Include/objimpl.h
+END
+pyport.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Include/pyport.h
+END

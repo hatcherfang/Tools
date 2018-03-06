@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/README
+END
+multibytecodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/multibytecodec.c
+END
+mappings_jp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/mappings_jp.h
+END
+_codecs_cn.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/_codecs_cn.c
+END
+_codecs_iso2022.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/_codecs_iso2022.c
+END
+mappings_kr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/mappings_kr.h
+END
+_codecs_hk.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/_codecs_hk.c
+END
+multibytecodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/multibytecodec.h
+END
+_codecs_jp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/_codecs_jp.c
+END
+_codecs_kr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/_codecs_kr.c
+END
+mappings_tw.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/mappings_tw.h
+END
+cjkcodecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/cjkcodecs.h
+END
+emu_jisx0213_2000.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/emu_jisx0213_2000.h
+END
+mappings_jisx0213_pair.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/mappings_jisx0213_pair.h
+END
+mappings_cn.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/mappings_cn.h
+END
+mappings_hk.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/mappings_hk.h
+END
+alg_jisx0201.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/alg_jisx0201.h
+END
+_codecs_tw.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cjkcodecs/_codecs_tw.c
+END

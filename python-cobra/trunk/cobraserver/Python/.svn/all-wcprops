@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/cobraserver/Python
+END
+dynload_os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Python/dynload_os2.c
+END
+thread_nt.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_nt.h
+END
+bltinmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Python/bltinmodule.c
+END
+sigcheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Python/sigcheck.c
+END
+strdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Python/strdup.c
+END
+thread_pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_pthread.h
+END
+mactoolboxglue.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Python/mactoolboxglue.c
+END
+getplatform.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Python/getplatform.c
+END
+sysmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Python/sysmodule.c
+END
+atof.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/cobraserver/Python/atof.c
+END
+dynload_atheos.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Python/dynload_atheos.c
+END
+thread_wince.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_wince.h
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Python/getopt.c
+END
+dynload_beos.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Python/dynload_beos.c
+END
+thread_foobar.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_foobar.h
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Python/memmove.c
+END
+dynload_dl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Python/dynload_dl.c
+END
+mysnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Python/mysnprintf.c
+END
+import.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Python/import.c
+END
+dup2.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/cobraserver/Python/dup2.c
+END
+getcompiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Python/getcompiler.c
+END
+structmember.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Python/structmember.c
+END
+getcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Python/getcwd.c
+END
+thread_sgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_sgi.h
+END
+thread_atheos.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_atheos.h
+END
+symtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Python/symtable.c
+END
+mystrtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Python/mystrtoul.c
+END
+fmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/cobraserver/Python/fmod.c
+END
+getversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Python/getversion.c
+END
+pystrtod.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Python/pystrtod.c
+END
+importdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Python/importdl.c
+END
+ceval.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Python/ceval.c
+END
+getargs.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Python/getargs.c
+END
+thread_os2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_os2.h
+END
+importdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Python/importdl.h
+END
+pyarena.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Python/pyarena.c
+END
+frozen.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Python/frozen.c
+END
+Python-ast.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Python/Python-ast.c
+END
+thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread.c
+END
+getcopyright.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Python/getcopyright.c
+END
+future.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Python/future.c
+END
+getmtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Python/getmtime.c
+END
+modsupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Python/modsupport.c
+END
+strtod.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Python/strtod.c
+END
+traceback.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Python/traceback.c
+END
+ast.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/cobraserver/Python/ast.c
+END
+dynload_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Python/dynload_stub.c
+END
+thread_pth.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_pth.h
+END
+dynload_next.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Python/dynload_next.c
+END
+pystate.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Python/pystate.c
+END
+codecs.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Python/codecs.c
+END
+hypot.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Python/hypot.c
+END
+pythonrun.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Python/pythonrun.c
+END
+frozenmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Python/frozenmain.c
+END
+thread_solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_solaris.h
+END
+errors.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Python/errors.c
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Python/strerror.c
+END
+pyfpe.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Python/pyfpe.c
+END
+asdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/cobraserver/Python/asdl.c
+END
+thread_beos.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_beos.h
+END
+marshal.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Python/marshal.c
+END
+compile.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Python/compile.c
+END
+dynload_aix.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Python/dynload_aix.c
+END
+thread_lwp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_lwp.h
+END
+dynload_hpux.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Python/dynload_hpux.c
+END
+thread_cthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Python/thread_cthread.h
+END
+dynload_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Python/dynload_win.c
+END
+graminit.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Python/graminit.c
+END
+dynload_shlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Python/dynload_shlib.c
+END

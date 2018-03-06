@@ -1,0 +1,731 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/cobraserver/Modules
+END
+unicodename_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/cobraserver/Modules/unicodename_db.h
+END
+cmathmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cmathmodule.c
+END
+_localemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_localemodule.c
+END
+flmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/flmodule.c
+END
+cryptmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cryptmodule.c
+END
+fmmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/fmmodule.c
+END
+dbmmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/dbmmodule.c
+END
+posixmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/posixmodule.c
+END
+cPickle.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cPickle.c
+END
+fcntlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/fcntlmodule.c
+END
+threadmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/threadmodule.c
+END
+shamodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/shamodule.c
+END
+binascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/binascii.c
+END
+_testcapimodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_testcapimodule.c
+END
+_weakref.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_weakref.c
+END
+signalmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/signalmodule.c
+END
+_randommodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_randommodule.c
+END
+ossaudiodev.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/ossaudiodev.c
+END
+getaddrinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/getaddrinfo.c
+END
+sunaudiodev.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/sunaudiodev.c
+END
+resource.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/resource.c
+END
+_sre.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_sre.c
+END
+ar_beos
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Modules/ar_beos
+END
+itertoolsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/cobraserver/Modules/itertoolsmodule.c
+END
+addrinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/addrinfo.h
+END
+cdmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cdmodule.c
+END
+zipimport.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/zipimport.c
+END
+gcmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/gcmodule.c
+END
+mmapmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Modules/mmapmodule.c
+END
+cStringIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cStringIO.c
+END
+datetimemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/cobraserver/Modules/datetimemodule.c
+END
+parsermodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/parsermodule.c
+END
+clmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/clmodule.c
+END
+_codecsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_codecsmodule.c
+END
+glmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/glmodule.c
+END
+_elementtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_elementtree.c
+END
+config.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/config.c.in
+END
+getbuildinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/getbuildinfo.c
+END
+_bsddb.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_bsddb.c
+END
+makesetup
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/makesetup
+END
+_bisectmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_bisectmodule.c
+END
+sha256module.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/sha256module.c
+END
+gdbmmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Modules/gdbmmodule.c
+END
+fpetestmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/fpetestmodule.c
+END
+_functoolsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_functoolsmodule.c
+END
+cstubs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cstubs
+END
+yuvconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Modules/yuvconvert.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Modules/main.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/cobraserver/Modules/md5.c
+END
+_hashopenssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_hashopenssl.c
+END
+yuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/cobraserver/Modules/yuv.h
+END
+Setup.config.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/Setup.config.in
+END
+unicodedata_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/cobraserver/Modules/unicodedata_db.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/cobraserver/Modules/md5.h
+END
+gc_weakref.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/gc_weakref.txt
+END
+_csv.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_csv.c
+END
+timing.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Modules/timing.h
+END
+getpath.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/getpath.c
+END
+svmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/svmodule.c
+END
+sre.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/cobraserver/Modules/sre.h
+END
+_ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_ssl.c
+END
+pwdmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/pwdmodule.c
+END
+testcapi_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/testcapi_long.h
+END
+timemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Modules/timemodule.c
+END
+_lsprof.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_lsprof.c
+END
+dlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/dlmodule.c
+END
+zlibmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Modules/zlibmodule.c
+END
+rotatingtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/rotatingtree.c
+END
+_cursesmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_cursesmodule.c
+END
+xxsubtype.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/xxsubtype.c
+END
+rotatingtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/rotatingtree.h
+END
+rgbimgmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/rgbimgmodule.c
+END
+_tkinter.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_tkinter.c
+END
+unicodedata.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/unicodedata.c
+END
+linuxaudiodev.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/linuxaudiodev.c
+END
+python.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/cobraserver/Modules/python.c
+END
+termios.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/termios.c
+END
+fpectlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/fpectlmodule.c
+END
+arraymodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/arraymodule.c
+END
+collectionsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/cobraserver/Modules/collectionsmodule.c
+END
+md5module.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/md5module.c
+END
+getnameinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/getnameinfo.c
+END
+timingmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/timingmodule.c
+END
+grpmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/grpmodule.c
+END
+socketmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/socketmodule.c
+END
+almodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/almodule.c
+END
+tkappinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/tkappinit.c
+END
+bz2module.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/bz2module.c
+END
+_heapqmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_heapqmodule.c
+END
+socketmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/socketmodule.h
+END
+makexp_aix
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/makexp_aix
+END
+xxmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/xxmodule.c
+END
+sha512module.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/sha512module.c
+END
+_typesmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_typesmodule.c
+END
+cgensupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cgensupport.c
+END
+imgfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/imgfile.c
+END
+stropmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/stropmodule.c
+END
+cgensupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cgensupport.h
+END
+ld_so_aix
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/ld_so_aix
+END
+Setup.dist
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/Setup.dist
+END
+imageop.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/imageop.c
+END
+puremodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Modules/puremodule.c
+END
+_curses_panel.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_curses_panel.c
+END
+cgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/cobraserver/Modules/cgen.py
+END
+readline.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/readline.c
+END
+_struct.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_struct.c
+END
+spwdmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Modules/spwdmodule.c
+END
+bsddbmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/bsddbmodule.c
+END
+selectmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/selectmodule.c
+END
+syslogmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cobraserver/Modules/syslogmodule.c
+END
+symtablemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/cobraserver/Modules/symtablemodule.c
+END
+ld_so_beos
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/ld_so_beos
+END
+_hotshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/_hotshot.c
+END
+sgimodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/sgimodule.c
+END
+sre_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cobraserver/Modules/sre_constants.h
+END
+pyexpat.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/pyexpat.c
+END
+operator.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cobraserver/Modules/operator.c
+END
+errnomodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cobraserver/Modules/errnomodule.c
+END
+mathmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/cobraserver/Modules/mathmodule.c
+END
+nismodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cobraserver/Modules/nismodule.c
+END
+audioop.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/cobraserver/Modules/audioop.c
+END
