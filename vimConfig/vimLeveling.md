@@ -312,6 +312,14 @@ vim -p *.cpp
 ```
 :bufdo tab split
 ```
+## Others
+- set paste  
+We can paste code from external without messy code  
+run command as below:  
+`:set paste`  
+- code align   
+`gg=G`  
+
 ### 保存会话  
 (未完待续)  
 
