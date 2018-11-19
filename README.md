@@ -13,6 +13,9 @@ vim config file easy to work
 4. filelock  
 file lock to be used to exclusive lock between process  
 
+5. Search weather  
+`curl wttr.in`  
+
 ## Finally  
 - Don't forget Star the project and I will often update it.  
 - Welcome to contact me.(email: hatcherfang@163.com)   
